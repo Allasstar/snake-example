@@ -1,0 +1,22 @@
+[
+  {
+    "foodName": "Blueberry",
+    "foodScore": 20,
+    "foodColorRGBA": [
+      0.4,
+      0.4,
+      0.9,
+      1
+    ]
+  },
+  {
+    "foodName": "Raspberry",
+    "foodScore": 15,
+    "foodColorRGBA": [
+      0.9,
+      0.4,
+      0.4,
+      1
+    ]
+  }
+]
